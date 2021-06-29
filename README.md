@@ -1,2 +1,2 @@
 # Desgin-Pattern
-The Code For Practicing Design Pattern
+The Codes while Practicing Design Pattern
